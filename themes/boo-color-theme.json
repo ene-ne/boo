@@ -4,7 +4,8 @@
 	"colors": {
 		"editor.background": "#fffafa",
 		"editor.foreground": "#250e07",
-        "list.activeSelectionIconForeground": "#ecc3c2",
+		"textLink.foreground": "#d68482"e,
+		"list.activeSelectionIconForeground": "#ecc3c2",
 		"list.activeSelectionBackground": "#fffafa",
 		"list.hoverBackground": "#ecc3c291",
 		"list.warningForeground": "#d68482",
@@ -23,6 +24,9 @@
 		"editorGroupHeader.tabsBackground": "#f3eae9",
 		"sideBar.background": "#f3eae9",
 		"sideBarSectionHeader.background": "#ecc3c24b",
+		"sideBySideEditor.horizontalBorder":"#ecc3c2",
+		"sideBySideEditor.verticalBorder": "#ecc3c2",
+		"editorPane.background": "#ecc3c2",
 		"statusBar.background": "#ecc3c2",
 		"statusBar.foreground": "#250e07",
 		"statusBar.noFolderBackground": "#ecc3c2",
@@ -48,8 +52,8 @@
 		"terminal.ansiGreen": "#839a53",
 		"terminal.ansiYellow": "#d4a520",
 		"terminal.ansiBlue": "#A6B6CE",
-		"terminal.ansiMagenta":"#D68482",
-		"terminal.ansiCyan" :"#89BEB7",
+		"terminal.ansiMagenta": "#D68482",
+		"terminal.ansiCyan": "#89BEB7",
 		"terminal.ansiWhite": "#ECC3C2",
 		"terminal.ansiBrightBlack": "#F3EAE9",
 		"terminal.ansiBrightRed": "#832426",
@@ -61,6 +65,7 @@
 		"terminal.ansiBrightWhite": "#F2CC60",
 		"badge.foreground": "#250e07",
 		"button.background": "#f3eae9",
+		"button.foreground": "#250e07",
 		"checkbox.background": "#f3eae9",
 		"checkbox.foreground": "#ecc3c2",
 		"dropdown.background": "#f3eae9",
@@ -84,9 +89,11 @@
 		"scrollbar.shadow": "#fffcfd",
 		"scrollbarSlider.background": "#f3eae9",
 		"progressBar.background": "#ecc3c2",
-		
-
-
+		"notificationCenterHeader.foreground": "#250e07",
+		"notificationCenterHeader.background": "#f3eae9",
+		"notifications.foreground": "#250e07",
+		"notifications.background": "#f3eae9",
+		"notifications.border": "#ecc3c2",
 	},
 	"tokenColors": [
 		{
